@@ -1,0 +1,7 @@
+{
+  "name": "Engendo",
+  "description": "An AI-powered travel companion that plans trips, discovers local gems using Google Maps, manages budgets, and lets you race friends to your next destination.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
